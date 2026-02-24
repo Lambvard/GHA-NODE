@@ -16,7 +16,8 @@
     "globals": "^17.3.0",
     "vitest": "^4.0.18"
   },
-  "script": {
-    "test": "vitest"
+  "scripts": {
+    "test": "vitest",
+    "lint": "eslint ."
   }
 }
